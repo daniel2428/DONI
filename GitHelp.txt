@@ -1,0 +1,10 @@
+ команды на один раз в проекте
+ git init   Команда для создания скрытого файла .git
+ git remote add origin https://github.com/daniel2428/DONI.git  для привязки
+
+ команды на один раз для устройства ПК/НОУД
+git config --global user.name "DONI"
+git config --global user.email "turatbekovdaniel2005@gmail.com"
+
+
+
